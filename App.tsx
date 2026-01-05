@@ -7,7 +7,6 @@ import MenuGrid from './components/MenuGrid';
 import SpecialOffers from './components/SpecialOffers';
 import ContactInfo from './components/ContactInfo';
 import Footer from './components/Footer';
-import AIAssistant from './components/AIAssistant';
 import SEO from './components/SEO';
 import CookieBanner from './components/CookieBanner';
 import LegalModal, { LegalType } from './components/LegalModal';
@@ -44,7 +43,6 @@ const App: React.FC = () => {
         </a>
       </div>
 
-      <AIAssistant />
       <CookieBanner />
     </div>
   );

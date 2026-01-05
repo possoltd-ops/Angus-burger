@@ -33,7 +33,7 @@ export const MENU_ITEMS: MenuItem[] = [
     prices: [{ label: 'Single', price: '£5.99' }, { label: 'Double', price: '£8.99' }],
     category: 'burgers',
     subcategory: 'Chicken Burgers',
-    image: 'https://images.unsplash.com/photo-1626700051175-656fc7ec33be?q=80&w=600&h=400&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1767619707470-21ef6a6a2699?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     id: 'bc2',
@@ -43,7 +43,7 @@ export const MENU_ITEMS: MenuItem[] = [
     prices: [{ label: 'Single', price: '£5.99' }, { label: 'Double', price: '£8.99' }],
     category: 'burgers',
     subcategory: 'Chicken Burgers',
-    image: 'https://images.unsplash.com/photo-1615233500570-800473ef9090?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1767619554161-b65c51fe958a?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     badge: 'Signature'
   },
   // VEG BURGERS
@@ -131,7 +131,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: '1 Beef Burger, 1 Chicken Burger (mix chicken/lamb), 1/2 Chicken, 6 Wings, 1 Lamb Kebab (served with pitta + salad), 1 Lamb Wrap, 2 Fries',
     price: '£49.99',
     category: 'platters',
-    image: 'https://images.unsplash.com/photo-1544124499-58912cbddaad?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1767617954392-1d3dfc20d3da?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     badge: 'Party Size'
   },
   // GREEK MENU
@@ -143,7 +143,7 @@ export const MENU_ITEMS: MenuItem[] = [
     prices: [{ label: 'Pita Wrap', price: '£8.00' }, { label: 'Box', price: '£15.00' }],
     category: 'greek',
     subcategory: 'Pita Wrap & Box',
-    image: 'https://images.unsplash.com/photo-1505253149613-112d21d9f6a9?q=80&w=600&h=400&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1767618639896-e46193e2f0ef?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     id: 'g2',
@@ -162,7 +162,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: '£3.49',
     category: 'chicken-sides',
     subcategory: 'Sides',
-    image: 'https://images.unsplash.com/photo-1630384066242-c72565880f71?q=80&w=600&h=400&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1714651620426-1ae32ca6b418?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     id: 's2',
@@ -171,7 +171,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: '£5.99',
     category: 'chicken-sides',
     subcategory: 'Sides',
-    image: 'https://images.unsplash.com/photo-1531496730074-83b638c0a7ac?q=80&w=600&h=400&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1734774924912-dcbb467f8599?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   }
 ];
 
